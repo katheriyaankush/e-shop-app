@@ -1,0 +1,28 @@
+{
+  "name": "e-shop-app",
+  "version": "1.0.0",
+  "description": "E-Commerce website",
+  "main": "backend/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katheriyaankush/e-shop-app.git"
+  },
+  "author": "Ankush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katheriyaankush/e-shop-app/issues"
+  },
+  "homepage": "https://github.com/katheriyaankush/e-shop-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "nodemailer": "^6.9.1",
+    "nodemon": "^2.0.22"
+  }
+}
